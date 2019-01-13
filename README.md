@@ -1,5 +1,5 @@
 ﻿##  Few Basic Spark Concepts
-Test driven practical snippets(Scala) to demonstrate some of the most basic concepts in Spark:
+Test driven practical snippets(Scala) to demonstrate some of the most basic concepts and abstractions in Spark:
 
 
 <LI> Lazy Evaluation
